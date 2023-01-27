@@ -1,1 +1,1 @@
-# Jutila_Ethan_Project2-main
+# Jutila_Ethan_Project2
