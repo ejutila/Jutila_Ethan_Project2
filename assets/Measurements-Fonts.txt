@@ -1,0 +1,31 @@
+Desktop Measurements
+
+Logo: 590x160
+Hero Image: 1200x513
+
+Mixture of the Day: 507x326
+Twitter Feed: 507x326
+
+Contact Info: 510x234
+Contact Form: 556x443
+
+Footer Logo: 590x160
+
+
+Mobile Measurements
+
+Logo: 185x80
+Hero Image: 427x512
+
+Mixture of the Day: 428x372
+Twitter Feed: 428x277
+
+Contact Info: 428x234
+Contact Form: 428x443
+
+Footer Logo: 428x160
+
+
+Font Style: Manrope
+
+https://fonts.google.com/specimen/Manrope
